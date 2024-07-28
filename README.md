@@ -31,8 +31,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/permin0ff/permin0ff/dist/snake.svg" alt="Snake animation" />
-
-###
