@@ -1,10 +1,3 @@
-
-![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=permin0ff&color=white&peng=false)
- ![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=permin0ff&color=white&pie=false)
-
-
-<!-- Баннер -->
-
 <h1 align="center">Привет! 👋</h1>
 
 <h3 align="center">
@@ -68,43 +61,20 @@ Python Backend Developer • Автор курсов • AI Developer
 
 ---
 
-# 🚀 Основные проекты
-
-- 📚 Курсы по FastAPI
-- 🌿 Курсы по Django
-- 🗄 SQLAlchemy
-- 🏗 FastAPI Clean Architecture
-- 🤖 AI Engineering
-- ⚙️ Микросервисные приложения
-
----
-
 # 📊 Статистика GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=permin0ff&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=permin0ff&layout=compact&theme=github_dark"/>
-
+![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=permin0ff&color=white&peng=false)
+ ![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=permin0ff&color=white&pie=false)
 </p>
 
 ---
 
 # 📫 Контакты
 
-📚 **Stepik:** https://stepik.org/users/...
+📚 **Stepik:** [https://stepik.org/users/486761237/profile](https://stepik.org/users/486761237/profile)
 
-🎥 **YouTube:** https://youtube.com/@...
 
-💬 **Telegram:** https://t.me/...
+💬 **Telegram:** [https://t.me/@Perminoff_ilya](https://t.me/@Perminoff_ilya)
 
-🌐 **Сайт:** https://...
-
-✉️ **Email:** ...
-
----
-
-<p align="center">
-Спасибо, что заглянули! ⭐
-</p>
+✉️ **Email:** perminoff-ilya@yandex.ru
